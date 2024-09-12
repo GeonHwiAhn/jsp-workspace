@@ -23,3 +23,4 @@ public class Hamburger {
 	private int hprice;
 	private String hdescription;
 }
+
